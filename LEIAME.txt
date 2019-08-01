@@ -1,0 +1,16 @@
+Instalação do Jogo
+
+
+1 - Descompacte o arquivo Manguetal.zip;
+2 - Abra a pasta Manguetal;
+3 - Abra a pasta exe;
+4 - Duplo-Clique com o botão esquerdo do mouse no arquivo Manguetal.exe;
+5 - No botão de screen resolution escolha a opção 1600x900;
+6 - Divirta-se.
+
+
+		Controles
+
+Movimento:            Teclas direcionais ou WASD
+Rebater:              Tecla Espaço		
+
