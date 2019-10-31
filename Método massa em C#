@@ -1,0 +1,4 @@
+static int SomaNums(int a, int b)
+{
+     return a + b;
+}
